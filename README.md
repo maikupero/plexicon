@@ -17,3 +17,7 @@ https://github.com/alexmngn/react-rock-paper-scissors/tree/master/src/scenes/Gam
 https://github.com/erperreault/erperreault.github.io/blob/main/index.html
 https://github.com/ahaywood/compressedfm/blob/master/nextjs/src/modules/episodes/EpisodePage.js
 https://github.com/JohnnyQuinn/estate_guesser/tree/master/src
+
+Examples:
+https://codesandbox.io/s/github/leoncvlt/react-incremental-game/tree/master/
+https://github.com/jamesmgittins/incremancer
