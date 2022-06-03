@@ -21,3 +21,7 @@ https://github.com/JohnnyQuinn/estate_guesser/tree/master/src
 Examples:
 https://codesandbox.io/s/github/leoncvlt/react-incremental-game/tree/master/
 https://github.com/jamesmgittins/incremancer
+https://github.com/Alaricus/clicker-tutorial
+
+Set Interval in React being difficult
+https://sebhastian.com/setinterval-react/
